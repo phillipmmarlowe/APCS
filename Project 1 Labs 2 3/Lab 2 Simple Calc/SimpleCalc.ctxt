@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimpleCalc()
+comment1.params=firstn\ secondn
+comment1.target=int\ add(int,\ int)
+comment2.params=firstn\ secondn
+comment2.target=int\ sub(int,\ int)
+numComments=3
